@@ -6,11 +6,13 @@ This project is part of Udacity Data Scientist Nanodegree
     - Anconda
     - nltk
     
-     - install in the not book using the command:
-     - nltk.download()
+          install in the not book using the command:
+          nltk.download()
         
     - wordcloud
-        !python -m pip install wordcloud
+    
+          install in the not book using the command:
+          !python -m pip install wordcloud
     
   - using the following Packeges:
     - pandas
@@ -18,7 +20,7 @@ This project is part of Udacity Data Scientist Nanodegree
     - matplotlib
     - seaborn
 ## Project Motivation:
-    As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below. [Seattle](https://www.kaggle.com/airbnb/seattle/data)and [Boston](https://www.kaggle.com/airbnb/boston).
+   As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below. [Seattle](https://www.kaggle.com/airbnb/seattle/data)and [Boston](https://www.kaggle.com/airbnb/boston).
     
     I answered some of the following questions:
     - How many listings are in neighbourhoods?
