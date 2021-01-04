@@ -5,7 +5,10 @@ This project is part of Udacity Data Scientist Nanodegree
   - Install:
     - Anconda
     - nltk
+        install in the not book using the command:
+        nltk.download()
     - wordcloud
+        !python -m pip install wordcloud
     
   - using the following Packeges:
     - pandas
@@ -23,6 +26,7 @@ This project is part of Udacity Data Scientist Nanodegree
     - Which reviews are Negative and Which are Positive?
 ## Files:
 'Project1_Write a Data Science Blog.ipynb' : which is the jupyter notebook that I worked on 
+    
     - Dataset:
     - [Seattle](https://www.kaggle.com/airbnb/seattle/data).
     - [Boston](https://www.kaggle.com/airbnb/boston).
