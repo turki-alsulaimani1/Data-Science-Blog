@@ -5,8 +5,10 @@ This project is part of Udacity Data Scientist Nanodegree
   - Install:
     - Anconda
     - nltk
-        install in the not book using the command:
-        nltk.download()
+    
+     - install in the not book using the command:
+     - nltk.download()
+        
     - wordcloud
         !python -m pip install wordcloud
     
@@ -25,11 +27,11 @@ This project is part of Udacity Data Scientist Nanodegree
     - Which city have the heighest rating and in which type of property?
     - Which reviews are Negative and Which are Positive?
 ## Files:
-'Project1_Write a Data Science Blog.ipynb' : which is the jupyter notebook that I worked on 
-    
-    - Dataset:
-    - [Seattle](https://www.kaggle.com/airbnb/seattle/data).
-    - [Boston](https://www.kaggle.com/airbnb/boston).
+'Project1_Write a Data Science Blog.ipynb' : which is the jupyter notebook. 
+
+   - Dataset:
+      - [Seattle](https://www.kaggle.com/airbnb/seattle/data).
+      - [Boston](https://www.kaggle.com/airbnb/boston).
 ## Blog:
 Check the Blog [Here]
 
