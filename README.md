@@ -9,7 +9,7 @@
 
 ## Project Motivation:
 
-## File Descriptions:
+## Files:
 
 ## Blog:
 
