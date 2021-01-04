@@ -20,7 +20,7 @@ This project is part of Udacity Data Scientist Nanodegree
     - matplotlib
     - seaborn
 ## Project Motivation:
-   ### As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below.
+   #### As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below.
     
   #### I answered some of the following questions:
   - How many listings are in neighbourhoods?
