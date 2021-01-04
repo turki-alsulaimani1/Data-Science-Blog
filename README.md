@@ -20,14 +20,14 @@ This project is part of Udacity Data Scientist Nanodegree
     - matplotlib
     - seaborn
 ## Project Motivation:
-   As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below.
+   ### As Part of the Data science Nanodegree i used the CRISP-DM process. I used the AirBNB Data for Seattle and Boston You can find the datasets Below.
     
-   I answered some of the following questions:
-    - How many listings are in neighbourhoods?
-    - How many houses and apartments abd others in Both cities?
-    - Which neighbourhood have the highest price average?
-    - Which city have the heighest rating and in which type of property?
-    - Which reviews are Negative and Which are Positive?
+  #### I answered some of the following questions:
+  - How many listings are in neighbourhoods?
+  - How many houses and apartments abd others in Both cities?
+  - Which neighbourhood have the highest price average?
+  - Which city have the heighest rating and in which type of property?
+  - Which reviews are Negative and Which are Positive?
 ## Files:
 'Project1_Write a Data Science Blog.ipynb' : which is the jupyter notebook. 
 
