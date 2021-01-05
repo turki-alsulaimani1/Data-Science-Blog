@@ -37,6 +37,6 @@ Project1_Write a Data Science Blog.ipynb : jupyter notebook.
 ## Blog:
 Check the Blog [Here](https://mr-alsulaimani.medium.com/airbnb-seattle-and-boston-analysis-ddeb84c24f11)
 ## acknowledgments:
-i thank Udacity for great teaching materials and for airbnb and kaggle for providing this data.
+I thank Udacity for great teaching materials and for airbnb and kaggle for providing this data.
 you can find the licenses in kaggle datasets used above. 
 
