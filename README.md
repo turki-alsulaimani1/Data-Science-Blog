@@ -29,7 +29,7 @@ This project is part of Udacity Data Scientist Nanodegree
   - Which city have the heighest rating and in which type of property?
   - Which reviews are Negative and Which are Positive?
 ## Files:
-'Project1_Write a Data Science Blog.ipynb' : which is the jupyter notebook. 
+Project1_Write a Data Science Blog.ipynb : jupyter notebook. 
 
    - Dataset:
       - [Seattle](https://www.kaggle.com/airbnb/seattle/data).
